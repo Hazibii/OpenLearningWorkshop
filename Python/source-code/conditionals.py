@@ -1,7 +1,9 @@
-#Conditionals for hacker pals
-
+#!/usr/bin/python3
+#Conditionals.py
 #If statement controls the logic flow 
 #If a statement is true do some else you something else
+# This is an exercise file from Open Learning Workshop
+# Copyright 2016 Hacker Pals
 
 letter = input("Enter a letter in the alphabet (UPPER CASE ONLY)")
 if letter == "A":

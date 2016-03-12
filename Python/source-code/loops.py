@@ -1,8 +1,10 @@
-#Loops
+#!/usr/bin/python3
+# loops.py 
+# This is an exercise file from Open Learning Workshop
+# Copyright 2016 Hacker Pals
 
 #Most programs actually have a loop at their core
-
-# while loops
+#While loops
 #Repest the loop while the condition is true
 
 while input("Enter a letter in the alphabet (q to quit)") != "q":
